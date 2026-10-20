@@ -12,3 +12,6 @@ __pycache__/
 # エディタ・OS
 .vscode/
 Thumbs.db
+
+# ログ
+*.log
